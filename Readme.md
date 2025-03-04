@@ -1,4 +1,4 @@
-* Analysing data with R*
+# Analysing data with R # 
 Data is growing at a very fast rate.
 And so are the ways in which data is being tapped by businesses,industries, institutions, and governments, all over the world,for making decisions that guide their future and the future of the
 people they serve.How much value we can derive from data really depends on just two things – the accuracy of data and the efficiency with which we’re able to access the data we need,
